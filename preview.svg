@@ -1,0 +1,49 @@
+<svg xmlns='http://www.w3.org/2000/svg' width='880' height='360' viewBox='0 0 880 360'>
+<rect width='880' height='360' rx='14' fill='#251e2e'/>
+<rect x='24' y='24' width='500' height='312' rx='10' fill='#2d2438' stroke='#3a2f4a'/>
+<circle cx='44' cy='44' r='5' fill='#ed87ab'/><circle cx='62' cy='44' r='5' fill='#eeba9f'/><circle cx='80' cy='44' r='5' fill='#95daa0'/>
+<text x='44' y='86' font-family='ui-monospace, SFMono-Regular, Menlo, monospace' font-size='14'><tspan fill='#95daa0' xml:space='preserve'>~/app</tspan><tspan fill='#e5d7f6' xml:space='preserve'> on </tspan><tspan fill='#c6a0f6' xml:space='preserve'>main</tspan><tspan fill='#e5d7f6' xml:space='preserve'> $ git status</tspan></text>
+<text x='44' y='112' font-family='ui-monospace, SFMono-Regular, Menlo, monospace' font-size='14'><tspan fill='#e5d7f6' xml:space='preserve'>Changes not staged for commit:</tspan></text>
+<text x='44' y='138' font-family='ui-monospace, SFMono-Regular, Menlo, monospace' font-size='14'><tspan fill='#ed87ab' xml:space='preserve'>  modified:   src/auth.ts</tspan></text>
+<text x='44' y='164' font-family='ui-monospace, SFMono-Regular, Menlo, monospace' font-size='14'><tspan fill='#95daa0' xml:space='preserve'>  new file:   src/session.ts</tspan></text>
+<text x='44' y='190' font-family='ui-monospace, SFMono-Regular, Menlo, monospace' font-size='14'><tspan fill='#95daa0' xml:space='preserve'>~/app</tspan><tspan fill='#e5d7f6' xml:space='preserve'> $ npm test</tspan></text>
+<text x='44' y='216' font-family='ui-monospace, SFMono-Regular, Menlo, monospace' font-size='14'><tspan fill='#95daa0' xml:space='preserve'> PASS </tspan><tspan fill='#e5d7f6' xml:space='preserve'> auth.spec.ts </tspan><tspan fill='#ab9cbc' xml:space='preserve'>(42 ms)</tspan></text>
+<text x='44' y='242' font-family='ui-monospace, SFMono-Regular, Menlo, monospace' font-size='14'><tspan fill='#ed87ab' xml:space='preserve'> FAIL </tspan><tspan fill='#e5d7f6' xml:space='preserve'> session.spec.ts</tspan></text>
+<text x='44' y='268' font-family='ui-monospace, SFMono-Regular, Menlo, monospace' font-size='14'><tspan fill='#eeba9f' xml:space='preserve'>  ● expected 200, got 401</tspan></text>
+<text x='44' y='294' font-family='ui-monospace, SFMono-Regular, Menlo, monospace' font-size='14'><tspan fill='#8aa1f4' xml:space='preserve'>Tests: </tspan><tspan fill='#ed87ab' xml:space='preserve'>1 failed</tspan><tspan fill='#e5d7f6' xml:space='preserve'>, </tspan><tspan fill='#95daa0' xml:space='preserve'>11 passed</tspan></text>
+<rect x='44' y='306' width='9' height='17' fill='#b7b8f8'/>
+<text x='556' y='62' font-family='-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif' font-size='30' font-weight='600' fill='#e5d7f6'>Dusk</text>
+<text x='556' y='86' font-family='-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif' font-size='13' fill='#ab9cbc'>A soft purple theme for Herdr</text>
+<text x='556' y='124' font-family='-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif' font-size='11' letter-spacing='1' fill='#837693'>TERMINAL</text>
+<rect x='556' y='136' width='30' height='30' rx='6' fill='#5c506c' stroke='#3a2f4a'/>
+<rect x='593' y='136' width='30' height='30' rx='6' fill='#ed87ab' stroke='#3a2f4a'/>
+<rect x='630' y='136' width='30' height='30' rx='6' fill='#95daa0' stroke='#3a2f4a'/>
+<rect x='667' y='136' width='30' height='30' rx='6' fill='#eeba9f' stroke='#3a2f4a'/>
+<rect x='704' y='136' width='30' height='30' rx='6' fill='#8aa1f4' stroke='#3a2f4a'/>
+<rect x='741' y='136' width='30' height='30' rx='6' fill='#c6a0f6' stroke='#3a2f4a'/>
+<rect x='778' y='136' width='30' height='30' rx='6' fill='#8bced5' stroke='#3a2f4a'/>
+<rect x='815' y='136' width='30' height='30' rx='6' fill='#d2c3e3' stroke='#3a2f4a'/>
+<rect x='556' y='173' width='30' height='30' rx='6' fill='#6f627f' stroke='#3a2f4a'/>
+<rect x='593' y='173' width='30' height='30' rx='6' fill='#ee99b3' stroke='#3a2f4a'/>
+<rect x='630' y='173' width='30' height='30' rx='6' fill='#95daa0' stroke='#3a2f4a'/>
+<rect x='667' y='173' width='30' height='30' rx='6' fill='#eeba9f' stroke='#3a2f4a'/>
+<rect x='704' y='173' width='30' height='30' rx='6' fill='#8aa1f4' stroke='#3a2f4a'/>
+<rect x='741' y='173' width='30' height='30' rx='6' fill='#f5bded' stroke='#3a2f4a'/>
+<rect x='778' y='173' width='30' height='30' rx='6' fill='#91c7e3' stroke='#3a2f4a'/>
+<rect x='815' y='173' width='30' height='30' rx='6' fill='#e5d7f6' stroke='#3a2f4a'/>
+<text x='556' y='236' font-family='-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif' font-size='11' letter-spacing='1' fill='#837693'>INTERFACE</text>
+<rect x='556' y='248' width='34' height='34' rx='8' fill='#2d2438' stroke='#3a2f4a'/>
+<text x='573' y='300' font-family='-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif' font-size='9' text-anchor='middle' fill='#ab9cbc'>surface</text>
+<rect x='598' y='248' width='34' height='34' rx='8' fill='#352a42' stroke='#3a2f4a'/>
+<text x='615' y='300' font-family='-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif' font-size='9' text-anchor='middle' fill='#ab9cbc'>popover</text>
+<rect x='640' y='248' width='34' height='34' rx='8' fill='#483c57' stroke='#3a2f4a'/>
+<text x='657' y='300' font-family='-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif' font-size='9' text-anchor='middle' fill='#ab9cbc'>raised</text>
+<rect x='682' y='248' width='34' height='34' rx='8' fill='#c6a0f6' stroke='#3a2f4a'/>
+<text x='699' y='300' font-family='-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif' font-size='9' text-anchor='middle' fill='#ab9cbc'>accent</text>
+<rect x='724' y='248' width='34' height='34' rx='8' fill='#f5a855' stroke='#3a2f4a'/>
+<text x='741' y='300' font-family='-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif' font-size='9' text-anchor='middle' fill='#ab9cbc'>working</text>
+<rect x='766' y='248' width='34' height='34' rx='8' fill='#ed87ab' stroke='#3a2f4a'/>
+<text x='783' y='300' font-family='-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif' font-size='9' text-anchor='middle' fill='#ab9cbc'>blocked</text>
+<rect x='808' y='248' width='34' height='34' rx='8' fill='#95daa0' stroke='#3a2f4a'/>
+<text x='825' y='300' font-family='-apple-system, BlinkMacSystemFont, Helvetica, Arial, sans-serif' font-size='9' text-anchor='middle' fill='#ab9cbc'>done</text>
+</svg>
